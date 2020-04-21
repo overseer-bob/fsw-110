@@ -1,0 +1,1 @@
+var welcome = document.getElementById("welcome").innerHTML="changing text with javascript!!";
