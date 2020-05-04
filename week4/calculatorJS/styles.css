@@ -1,0 +1,31 @@
+#add{
+    width: 380px;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    border: 5px;
+    border-color: greenyellow;
+    background-color: greenyellow;
+    color: brown;
+}
+
+#subtract{
+    width: 380px;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    border 5px;
+    border-color: orangered;
+    background-color: grey;
+    color: yellow;
+}
+
+#multiply{
+    width: 380px;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+    border-color: purple;
+    background-color: purple;
+    color: fuchsia;
+}
